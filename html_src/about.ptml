@@ -1,0 +1,21 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            About This Site
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            About This Site
+        </h1>
+
+        <p>
+            A site to collect information about NYU undergraduate internships.
+        </p>
+
+    </body>
+</html>

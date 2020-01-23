@@ -1,0 +1,6 @@
+        <div style="text-align:center">
+            <figure class="logo">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Two_women_operating_ENIAC_%28full_resolution%29.jpg/2560px-Two_women_operating_ENIAC_%28full_resolution%29.jpg" width="16%">
+            </figure>
+        </div>
+
