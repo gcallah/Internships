@@ -2,7 +2,7 @@
     <head>
 <!--include head.txt -->
         <title>
-            NYU Undergraduate Internships
+            NYU Undergraduate Internships: Overview
         </title>
     </head>
 
@@ -10,12 +10,8 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
         <h1>
-            NYU Undergraduate Internships
+            NYU Undergraduate Internships: Overview
         </h1>
-
-        <h3>
-        Internship Overview
-        </h3>
 
         <ul>
 
